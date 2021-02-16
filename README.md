@@ -4,8 +4,8 @@
 Exam
 ---
 
-* [Final](https://hackmd.io/@mathlin/HkhPR0ryd)
 * [Midterm](https://hackmd.io/@mathlin/HyAjWVz5D)
+* [Final](https://hackmd.io/@mathlin/HkhPR0ryd)
 
 Bonus
 ---
@@ -17,37 +17,34 @@ Bonus
 Quiz
 ---
 
-* [Quiz 4 解答](https://hackmd.io/@mathlin/rkaTYefRD)
-* [Quiz 3 解答](https://hackmd.io/@mathlin/S1Y7GQXov)
-* [Quiz 2 解答](https://hackmd.io/@mathlin/rJfHwjEdD)
-* [Quiz 1 解答](https://hackmd.io/@mathlin/HycGKEmPD)
+* [Quiz 01 解答](https://hackmd.io/@mathlin/HycGKEmPD)
+* [Quiz 02 解答](https://hackmd.io/@mathlin/rJfHwjEdD)
+* [Quiz 03 解答](https://hackmd.io/@mathlin/S1Y7GQXov)
+* [Quiz 04 解答](https://hackmd.io/@mathlin/rkaTYefRD)
 
 
 Homework
 ---
 
-* [Homework 12 解答](https://hackmd.io/@mathlin/BJBxcpyhD)
-* [Homework 11 解答](https://hackmd.io/@mathlin/rkZoFTJnD)
-* [Homework 10 解答](https://hackmd.io/@mathlin/Hk5xZBriP)
-* [Homework 9 解答](https://hackmd.io/@mathlin/S1WfKiC9D)
-* [Homework 8 解答](https://hackmd.io/@mathlin/H1Q0QDr9D)
-* [Homework 7 解答](https://hackmd.io/@mathlin/HkTecRMYv)
-* [Homework 6 解答](https://hackmd.io/@mathlin/ByIxZt19D)
-* [Homework 5 解答](https://hackmd.io/@mathlin/Hy489wvPP)
-* [Homework 4 解答](https://hackmd.io/@mathlin/S1jIatJwv)
-* [Homework 3 解答](https://hackmd.io/@mathlin/rk1pCWrIP)
-* [Homework 2 解答](https://hackmd.io/@mathlin/rkzyXzyUw)
-* [Homework 1 解答](https://hackmd.io/@mathlin/SymGVtvrP)
-* [Homework 1 先備知識補充](https://hackmd.io/@mathlin/By8whMUBP)
-* [Homework testcase](https://drive.google.com/drive/folders/1o5mlaeO1fXq8-aSN7vyuuFkr6nNzbuJn?usp=sharing)[target=_blank]
 * [Introduction to submission status](https://hackmd.io/@bogay/r172d_Nuv)
+* [Homework 01 先備知識補充](https://hackmd.io/@mathlin/By8whMUBP)
+* [Homework 01 解答](https://hackmd.io/@mathlin/SymGVtvrP)
+* [Homework 02 解答](https://hackmd.io/@mathlin/rkzyXzyUw)
+* [Homework 03 解答](https://hackmd.io/@mathlin/rk1pCWrIP)
+* [Homework 04 解答](https://hackmd.io/@mathlin/S1jIatJwv)
+* [Homework 05 解答](https://hackmd.io/@mathlin/Hy489wvPP)
+* [Homework 06 解答](https://hackmd.io/@mathlin/ByIxZt19D)
+* [Homework 07 解答](https://hackmd.io/@mathlin/HkTecRMYv)
+* [Homework 08 解答](https://hackmd.io/@mathlin/H1Q0QDr9D)
+* [Homework 09 解答](https://hackmd.io/@mathlin/S1WfKiC9D)
+* [Homework 10 解答](https://hackmd.io/@mathlin/Hk5xZBriP)
+* [Homework 11 解答](https://hackmd.io/@mathlin/rkZoFTJnD)
+* [Homework 12 解答](https://hackmd.io/@mathlin/BJBxcpyhD)
+* [Homework testcase](https://drive.google.com/drive/folders/1o5mlaeO1fXq8-aSN7vyuuFkr6nNzbuJn?usp=sharing)[target=_blank]
 
 
 
 ---
-
-
-
 
 
 
