@@ -1,5 +1,5 @@
 # Usage: ./judge_quiz03.sh [File name]
-
+ 
 DirName="$1".csv;
 
 echo "\c" > $DirName;

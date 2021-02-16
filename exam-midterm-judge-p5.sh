@@ -1,5 +1,5 @@
 # Usage: ./judge_p5.sh [File name]
-
+ 
 DirName="$1".csv;
 touch $DirName;
 

@@ -1,5 +1,5 @@
 # Homework 4 解答
-
+ 
 ||題目|出題者|
 |:--|:--|:--|
 |1|Print a Repeated Pattern|Judge Girl|
